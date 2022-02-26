@@ -1,0 +1,1 @@
+<h1>Hello Laravel API</h1>
